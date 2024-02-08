@@ -12,6 +12,7 @@ import {
 
 
 export default class App extends Component {
+  // pageSize=15
   render() {
     return (
       <div>

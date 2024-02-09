@@ -13,7 +13,6 @@ export class Spinner extends Component {
 
 export default Spinner
 
-
 // business
 // entertainment
 // general
